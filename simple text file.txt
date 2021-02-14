@@ -1,1 +1,8 @@
 I am editing this file...
+
+New changes I am going to add 
+
+
+
+git stash 
+git stash pop
